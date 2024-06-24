@@ -38,5 +38,7 @@
   </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/isllamm/isllamm/output/snake.svg" alt="Snake animation" />
+
 
 ###
