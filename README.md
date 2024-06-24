@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a Islam, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Islam and I'm Android Developer, from Egypt</h2>
 
 ###
 
