@@ -11,8 +11,6 @@
 ###
 
 <h2 align="left">I code with</h2>
-###
-
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdsMXRhanNud3ZxYnhlc25hN2k1OWNzdnVtbHFwNXdyaDFlZjh4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif"  />
 
 ###
