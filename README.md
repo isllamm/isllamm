@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Islam — an Android Software Engineer from Egypt 🇪🇬</h2>
+<h2 align="left">Hi 👋, I'm Islam — an Android Developer from Egypt 🇪🇬</h2>
 
 ###
 
@@ -47,5 +47,11 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isllamm&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=isllamm&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isllamm&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
+
+###
+
