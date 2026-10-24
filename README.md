@@ -25,7 +25,7 @@ object Islam {
     val role       = "Senior Mobile Engineer"
     val focus      = listOf("Android", "Jetpack Compose", "Kotlin Multiplatform")
     val loves      = listOf("Clean Architecture", "Design Systems", "Smooth Releases")
-    val currently  = "Building merchant apps + open-source Compose effects"
+    val currently  = "Building merchant apps people use every day"
     val funFact    = "I also run a clothing business 👕"
 }
 ```
@@ -44,13 +44,12 @@ object Islam {
 
 ---
 
-## 🧪 Side Projects
+## 🔭 Current Focus
 
-| Project | What it is | Stack |
-|---|---|---|
-| ✨ **[Glint](https://github.com/isllamm)** | Compose Multiplatform effects library for Android + iOS, with CI and a demo app | Kotlin, CMP, Gradle |
-| 🏪 **StoreFlow** | Retail management app for small businesses | Kotlin, Jetpack Compose |
-| 👕 **Clothing ERP** | Tool to manage wholesale and retail for my own clothing business | In progress |
+- 🧩 **Jetpack Compose at scale** — reusable components and design systems shared across apps.
+- 🌍 **Compose Multiplatform** — one UI codebase for Android and iOS.
+- 🚢 **Reliable releases** — faster CI, safer signing, and smooth store rollouts.
+- 🏛️ **Clean, modular architecture** — code that stays easy to change as apps grow.
 
 ---
 
