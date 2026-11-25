@@ -26,7 +26,6 @@ object Islam {
     val focus      = listOf("Android", "Jetpack Compose", "Kotlin Multiplatform")
     val loves      = listOf("Clean Architecture", "Design Systems", "Smooth Releases")
     val currently  = "Building merchant apps people use every day"
-    val funFact    = "I also run a clothing business 👕"
 }
 ```
 
